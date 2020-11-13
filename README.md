@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Im <h1> trainee web and game developer</h1>
+
+
+ 🌱 I’m currently learning Node.js and Unity 
+ 
+ 🔭 I’m currently working on an awesome 2d with unity game engine <h1>+</h1> Im working on my portfolio website https://mohamedhosamsabry.000webhostapp.com/
+ 
+📫 you can reach me through my university email  mohamed20191705017@cis.asu.edu.eg 
