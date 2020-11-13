@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Im <h1> trainee web and game developer</h1>
+<h1>I am Mohamed Hosam </h1> 
+ <h2>  A trainee web and game developer</h2>
 
 
  🌱 I’m currently learning Node.js and Unity 
