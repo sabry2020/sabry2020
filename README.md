@@ -25,3 +25,10 @@ Here are some ideas to get you started:
  
  
 📫 you can reach me through my university email  mohamed20191705017@cis.asu.edu.eg 
+
+
+[![sabry2020 github stats](https://github-readme-stats.vercel.app/api?username=sabry2020&hide=stars?count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
