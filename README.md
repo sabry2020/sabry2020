@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>I am Mohamed Hosam </h1> 
- <h2>  A trainee web and game developer</h2>
+<h1>I am Mohamed Hosam Sabry </h1> 
+ <h2>  A trainee web developer</h2>
 
 
- 🌱 I’m currently learning Node.js and Unity 
+ 🌱 I develop awesome web applications with Node.js and love contributing to open-source repositories
  
- 🔭 I’m currently working on an awesome 2d with unity game engine <h1>+</h1>
+ <h1>+</h1>
  
  
 📫 you can reach me through my university email  mohamed20191705017@cis.asu.edu.eg 
