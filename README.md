@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>I am Mohamed Hosam Sabry </h1> 
- <h2>  A trainee web developer</h2>
+ <h2>  Web developer</h2>
 
 
  🌱 I develop awesome web applications with Node.js and love contributing to open-source repositories
